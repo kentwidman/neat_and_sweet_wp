@@ -1,0 +1,47 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+.ingredients_row {
+	border: 1px solid #d3d3d3;
+	background: #e6e6e6 url(../../../assets/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x;
+	font-weight: normal;
+	color: #555555;
+	position: relative;
+	padding: 5px 5px 5px 30px;
+}
+
+.ingredients_move {
+	background-image: url(../../../assets/move.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	width: 10px;
+	height: 15px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.ingredients_close {
+	background-image: url(../../../assets/close.png);
+	background-repeat: no-repeat;
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	text-indent: -999em;
+}
+
+.ingredients_type {
+
+}
+
+.ingredients_url,
+.ingredients_cover,
+.ingredients_title {
+	width: 75%;
+}
+
+.ingredients_media_button {
+
+}
